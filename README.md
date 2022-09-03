@@ -16,6 +16,7 @@ This problem is a single-label image classification problem with large differenc
 
 ### 3. BackBone
 #### 3.1 EfficientNet
+The figure below shows the architecture of EfficientNet. [[Paper Link](https://arxiv.org/pdf/1905.11946.pdf)]
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/EfficientNet%20diagram.png" width="700"/></div>
 
 #### 3.2 Vit
