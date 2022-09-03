@@ -24,11 +24,11 @@ The figure below shows the architecture of EfficientNet. Converting images to se
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/Vit%20diagram.png" width="590"/></div>
 
 ### 4. Learning rate strategy
-Use `Cosine Annealing` for EfficientNet backbone and adapt `ReduceLROnPlateau` for Vit backbone.
+Use `Cosine Annealing` strategy for EfficientNet backbone and adapt `ReduceLROnPlateau` strategy for Vit backbone.
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/learning%20rate%20strategy.png" width="600"/></div>
 
 
 ### 5. K-Fold cross validation skill
-Implement K-Fold Cross Validation for each model to improve respective effect and ensemble effect.
+Implement K-Fold Cross Validation for each model to improve respective and ensemble effect.
 
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/k-fold%20cross%20validation.png" width="450"/></div>
