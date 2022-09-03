@@ -25,4 +25,4 @@ The dataset for this competition consists of 21,367 labeled images collected dur
 
 
 ### 5. K-Fold cross validation skill
-<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/k-fold%20cross%20validation.png" width="480"/></div>
+<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/k-fold%20cross%20validation.png" width="450"/></div>
