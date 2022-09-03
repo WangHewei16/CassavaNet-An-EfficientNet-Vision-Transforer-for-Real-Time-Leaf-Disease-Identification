@@ -18,11 +18,11 @@ The dataset for this competition consists of 21,367 labeled images collected dur
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/EfficientNet%20diagram.png" width="700"/></div>
 
 #### 3.2 Vit
-<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/Vit%20diagram.png" width="700"/></div>
+<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/Vit%20diagram.png" width="600"/></div>
 
 ### 4. Learning rate strategy
 <div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/learning%20rate%20strategy.png" width="600"/></div>
 
 
 ### 5. K-Fold cross validation skill
-<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/k-fold%20cross%20validation.png" width="600"/></div>
+<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/k-fold%20cross%20validation.png" width="500"/></div>
