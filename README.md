@@ -8,3 +8,6 @@ Existing disease detection methods necessitate farmers enlisting the assistance 
 
 
 The dataset for this competition consists of 21,367 labeled images collected during a regular survey in Uganda. The majority of the images were crowdsourced from farmers who took photos of their gardens and annotated by experts at the National Crops Resources Research Institute (NaCRRI) in collaboration with Makerere University's AI lab in Kampala. This is in a format that most closely resembles what farmers would need to diagnose in the field. Our task is to categorize each cassava image into one of four disease categories or one healthy leaf category. To assist farmers in quickly identifying diseased plants, potentially saving their crops before irreversible damage occurs.
+
+### 2. Pipeline
+<div align=center><img src="https://github.com/WangHewei16/EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification/blob/main/images/pipeline.png" width="950"/></div>
