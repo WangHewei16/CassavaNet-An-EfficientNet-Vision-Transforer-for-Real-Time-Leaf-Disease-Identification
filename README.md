@@ -1,4 +1,4 @@
-## EfficientNet-based-Model-for-Cassava-Leaf-Disease-Classification
+## EfficientNet-Vit-Model-for-Cassava-Leaf-Disease-Classification
 
 ### 1. Background of the problem to be solved
 Cassava, Africa's second-largest provider of carbohydrates, is a critical food security crop grown by smallholder farmers due to its ability to withstand harsh conditions. This starchy root is grown on at least 80% of Sub-Saharan African household farms, but viral diseases are a major source of low yields. It may be possible to identify common diseases and treat them using data science.
